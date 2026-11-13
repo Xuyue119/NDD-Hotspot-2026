@@ -1,0 +1,73 @@
+"Analysis","Database","Class","Description","GeneRatio_num","Count","FDR"
+"methods","GO_BP","Both-supported","cellular response to peptide hormone stimulus",0.19047619047619,8,0.000948979
+"methods","GO_BP","Both-supported","response to peptide hormone",0.214285714285714,9,0.000948979
+"methods","GO_BP","Both-supported","cellular response to insulin stimulus",0.142857142857143,6,0.007992163
+"methods","GO_BP","Both-supported","response to insulin",0.142857142857143,6,0.023783546
+"methods","GO_BP","Both-supported","small molecule biosynthetic process",0.19047619047619,8,0.026484344
+"methods","GO_BP","Both-supported","cellular response to fibroblast growth factor stimulus",0.0952380952380952,4,0.038291028
+"methods","GO_BP","Both-supported","response to fibroblast growth factor",0.0952380952380952,4,0.044351645
+"methods","GO_BP","Both-supported","Ras protein signal transduction",0.0952380952380952,4,0.044351645
+"methods","KEGG","Both-supported","Long-term depression",0.151515151515152,5,0.00121979
+"methods","KEGG","Both-supported","Oxytocin signaling pathway",0.181818181818182,6,0.003177087
+"methods","KEGG","Both-supported","Serotonergic synapse",0.151515151515152,5,0.004164575
+"methods","KEGG","Both-supported","Ras signaling pathway",0.181818181818182,6,0.01183707
+"methods","KEGG","Both-supported","Phospholipase D signaling pathway",0.151515151515152,5,0.013356363
+"methods","KEGG","Both-supported","PD-L1 expression and PD-1 checkpoint pathway in cancer",0.121212121212121,4,0.013356363
+"methods","KEGG","Both-supported","Alcoholism",0.151515151515152,5,0.013356363
+"methods","KEGG","Both-supported","Melanogenesis",0.121212121212121,4,0.019672897
+"methods","DisGeNET","Both-supported","Cardio-facio-cutaneous syndrome",0.113636363636364,5,2.61562464199779e-07
+"methods","DisGeNET","Both-supported","Noonan Syndrome",0.136363636363636,6,2.61562464199779e-07
+"methods","DisGeNET","Both-supported","RASopathy",0.136363636363636,6,2.61562464199779e-07
+"methods","DisGeNET","Both-supported","Noonan Syndrome 1",0.113636363636364,5,2.69889332708445e-06
+"methods","DisGeNET","Both-supported","Noonan syndrome and Noonan-related syndrome",0.113636363636364,5,3.07080717797612e-06
+"methods","DisGeNET","Both-supported","Neurodevelopmental delay",0.181818181818182,8,2.17104840652759e-05
+"methods","DisGeNET","Both-supported","Global developmental delay",0.181818181818182,8,0.000440601298486381
+"methods","DisGeNET","Both-supported","Intellectual Disability",0.25,11,0.00048118398364067
+"methods","GO_BP","Denovonear-supported","regulation of monoatomic cation transmembrane transport",0.217391304347826,5,0.0415887384840984
+"methods","GO_BP","Denovonear-supported","regulation of monoatomic ion transmembrane transport",0.217391304347826,5,0.0415887384840984
+"methods","GO_BP","Denovonear-supported","regulation of metal ion transport",0.217391304347826,5,0.0415887384840984
+"methods","GO_BP","Denovonear-supported","negative regulation of cation transmembrane transport",0.130434782608696,3,0.0415887384840984
+"methods","GO_BP","Denovonear-supported","negative regulation of monoatomic ion transmembrane transport",0.130434782608696,3,0.0415887384840984
+"methods","GO_BP","Denovonear-supported","negative regulation of intracellular signal transduction",0.260869565217391,6,0.0482037158243605
+"methods","GO_BP","Denovonear-supported","regulation of transmembrane transport",0.217391304347826,5,0.0482037158243605
+"methods","GO_BP","Denovonear-supported","regulation of monoatomic ion transport",0.217391304347826,5,0.0482037158243605
+"methods","KEGG","Denovonear-supported","Dopaminergic synapse",0.266666666666667,4,0.010417987
+"methods","KEGG","Denovonear-supported","Glutamatergic synapse",0.266666666666667,4,0.010417987
+"methods","KEGG","Denovonear-supported","Kaposi sarcoma-associated herpesvirus infection",0.266666666666667,4,0.010417987
+"methods","KEGG","Denovonear-supported","PI3K-Akt signaling pathway",0.333333333333333,5,0.014390931
+"methods","KEGG","Denovonear-supported","PD-L1 expression and PD-1 checkpoint pathway in cancer",0.2,3,0.017732327
+"methods","KEGG","Denovonear-supported","Serotonergic synapse",0.2,3,0.023736396
+"methods","KEGG","Denovonear-supported","Hepatitis C",0.2,3,0.028244159
+"methods","KEGG","Denovonear-supported","Oocyte meiosis",0.2,3,0.029784628
+"methods","DisGeNET","Denovonear-supported","Seizures",0.347826086956522,8,3.61639840438187e-06
+"methods","DisGeNET","Denovonear-supported","Intellectual Disability",0.434782608695652,10,1.13685427319298e-05
+"methods","DisGeNET","Denovonear-supported","Neurodevelopmental Disorders",0.347826086956522,8,0.00044817013978169
+"methods","DisGeNET","Denovonear-supported","Non-specific syndromic intellectual disability",0.260869565217391,6,0.000846492544704039
+"methods","DisGeNET","Denovonear-supported","Global developmental delay",0.217391304347826,5,0.00397843723813195
+"methods","DisGeNET","Denovonear-supported","Autism Spectrum Disorders",0.217391304347826,5,0.0126118203137683
+"annotation","GO_MF","Known genes in database","ribonucleoside triphosphate phosphatase activity",0.37037037037037,20,2.30290589059124e-10
+"annotation","GO_MF","Known genes in database","GTPase activity",0.203703703703704,11,1.40727013891245e-07
+"annotation","GO_MF","Known genes in database","G protein activity",0.111111111111111,6,1.47146788803579e-07
+"annotation","GO_MF","Known genes in database","GDP binding",0.0925925925925926,5,3.78469473181556e-05
+"annotation","GO_MF","Known genes in database","hormone receptor binding",0.0740740740740741,4,3.78469473181556e-05
+"annotation","GO_MF","Known genes in database","GTP binding",0.166666666666667,9,3.78469473181556e-05
+"annotation","GO_MF","Known genes in database","guanyl nucleotide binding",0.166666666666667,9,5.40701793539204e-05
+"annotation","GO_MF","Known genes in database","guanyl ribonucleotide binding",0.166666666666667,9,5.40701793539204e-05
+"annotation","KEGG","Known genes in database","Dopaminergic synapse",0.191489361702128,9,2.26890840518876e-05
+"annotation","KEGG","Known genes in database","Long-term depression",0.148936170212766,7,2.90106706815718e-05
+"annotation","KEGG","Known genes in database","PD-L1 expression and PD-1 checkpoint pathway in cancer",0.148936170212766,7,7.54729524747863e-05
+"annotation","KEGG","Known genes in database","Relaxin signaling pathway",0.170212765957447,8,9.87596442783475e-05
+"annotation","KEGG","Known genes in database","Human cytomegalovirus infection",0.191489361702128,9,9.87596442783475e-05
+"annotation","KEGG","Known genes in database","Alcoholism",0.170212765957447,8,9.87596442783475e-05
+"annotation","KEGG","Known genes in database","Serotonergic synapse",0.148936170212766,7,9.87596442783475e-05
+"annotation","KEGG","Known genes in database","Human immunodeficiency virus 1 infection",0.170212765957447,8,0.000220621101966222
+"annotation","DisGeNET","Known genes in database","Intellectual Disability",0.472727272727273,26,3.40411486295571e-15
+"annotation","DisGeNET","Known genes in database","Neurodevelopmental Disorders",0.381818181818182,21,1.36353033664377e-10
+"annotation","DisGeNET","Known genes in database","Seizures",0.272727272727273,15,1.70652596221262e-10
+"annotation","DisGeNET","Known genes in database","Non-specific syndromic intellectual disability",0.290909090909091,16,4.25955554439034e-10
+"annotation","DisGeNET","Known genes in database","Non-specific early-onset epileptic encephalopathy",0.163636363636364,9,4.79028267037257e-10
+"annotation","DisGeNET","Known genes in database","Global developmental delay",0.272727272727273,15,8.39411669205759e-10
+"annotation","DisGeNET","Known genes in database","Noonan Syndrome",0.127272727272727,7,8.23129524951518e-09
+"annotation","DisGeNET","Known genes in database","RASopathy",0.127272727272727,7,8.23129524951518e-09
+"annotation","GO_MF","Others","polypeptide N-acetylgalactosaminyltransferase activity",0.0526315789473684,3,0.017866589657425
+"annotation","KEGG","Others","Mucin type O-glycan biosynthesis",0.0967741935483871,3,0.0348042615510768

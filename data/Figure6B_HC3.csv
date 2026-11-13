@@ -1,0 +1,17 @@
+"phenotype","label","panel","position","beta","ci_low","ci_high","p_raw","p_adj","status","n_Both","n_Non","n_Syn"
+"scq_total","SCQ total","Social and repetitive behaviors",1,-0.338304710013715,-1.17133505931564,0.494725639288206,0.423205253608369,0.423205253608369,"Estimated",105,10,34
+"rbsr_total","RBS-R total","Social and repetitive behaviors",2,0.319255264622208,-0.399600564329906,1.03811109357432,0.38115583105751,0.769864310241314,"Estimated",105,11,29
+"rbsr_compulsive","RBS-R
+compulsive","Social and repetitive behaviors",3,0.540294522250182,0.0218495616517981,1.05873948284857,0.0412262747982263,0.288583923587584,"Estimated",105,11,29
+"rbsr_stereotyped","RBS-R
+stereotyped","Social and repetitive behaviors",4,0.251341968886458,-0.44142289539733,0.944106833170247,0.474115729034606,0.769864310241314,"Estimated",105,11,29
+"age_onset_mos","Age at
+first concern","Social and repetitive behaviors",5,-0.0587679307935755,-0.800232975756283,0.682697114169132,0.875627597098367,0.875627597098367,"Estimated",106,11,29
+"dcdq_total","DCDQ total","Motor and adaptive functioning",1,0.286143102886756,-0.785364580699844,1.35765078647336,0.597087631089287,0.732520987335561,"Estimated",78,8,23
+"dcdq_fine_motor","DCDQ
+fine motor","Motor and adaptive functioning",2,0.136893823771083,-0.656289267615918,0.930076915158083,0.732520987335561,0.732520987335561,"Estimated",78,8,23
+"dcdq_coordination","DCDQ
+coordination","Motor and adaptive functioning",3,0.433412891450903,-0.55099312411621,1.41781890701802,0.384116051425049,0.732520987335561,"Estimated",78,8,23
+"vineland_abc","Vineland ABC","Motor and adaptive functioning",4,0.0493609641803419,-0.650598204391455,0.749320132752138,0.888674217983531,0.888674217983531,"Estimated",73,5,16
+"vineland_communication","Vineland
+communication","Motor and adaptive functioning",5,0.29463068550092,-0.498753211176497,1.08801458217834,0.46180510351132,0.786028775104807,"Estimated",73,5,16
